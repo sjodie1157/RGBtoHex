@@ -1,0 +1,22 @@
+.inp input{
+    width: 40px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:  100vh;
+}
+
+.box {
+    background-color: black;
+    color: white;
+    padding: 2em;
+    border-radius: 1pc;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    margin: 2em 0;
+}
